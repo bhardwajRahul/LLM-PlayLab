@@ -129,6 +129,9 @@
 |LLM EVALUATION | [link ](https://github.com/Sakil786/LLM_EVALUATION "link ") |
 |LLM-as-a-Judge-evaluating-text-summarization-performance | [link ](https://github.com/Sakil786/LLM-as-a-Judge-evaluating-text-summarization-performance "link ") |
 
-
+## GENERATIVE & AGENTIC AI CLASSS
+| Sessions  |Respository Link   |
+| :------------: | :------------: |
+|Session 01   | [link ](https://github.com/Sakil786/Generative-Agentic-AI-courses/blob/main/Hugging_face_session01.ipynb "link ") |
 ## Explore, Appreciate, and Give the Repository a Shining ⭐
 Feel free to explore the repository and show your appreciation by giving it a star⭐! Your support means a lot! 😉
